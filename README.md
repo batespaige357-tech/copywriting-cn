@@ -2,9 +2,7 @@
 
 **保留你的表达，把中文页面文案写清楚。**
 
-基于 [coreyhaines31/marketingskills 的 copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting) 的小幅中文适配。独立维护、非官方。
-
-## 保留上游核心
+## 功能与流程
 
 先读产品背景，再区分空白起草、恢复原稿声音、局部修改；逐单元打磨，用可感知、可证实、具有区分度的三问核对文案。保留原正文和三个完整参考文件，不另造一套方法。
 
@@ -25,7 +23,9 @@ npx skills add batespaige357-tech/copywriting-cn --skill copywriting-cn
 
 技能本身不需要脚本或额外 API Key。引用到的其他 marketing skills 为相关可选能力，本仓库不打包整个上游技能集合。没有示例网页、效果截图或发布功能。
 
-## 来源与验证
+## 来源与许可
+
+基于 [coreyhaines31/marketingskills 的 copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting)，由本仓库维护。
 
 MIT，保留 Corey Haines 版权、完整许可和上游正文中的来源致谢。参考提交、修改范围见 [CHANGES.md](CHANGES.md)。
 
